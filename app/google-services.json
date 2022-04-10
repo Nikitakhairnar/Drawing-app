@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "351145288745",
+    "project_id": "drawing-app-18871",
+    "storage_bucket": "drawing-app-18871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351145288745:android:dfa99a345ad61c97bf2838",
+        "android_client_info": {
+          "package_name": "com.example.drawingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351145288745-8c4mh3er1slscm15iq07cqsvu5c8dbq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drawingapp",
+            "certificate_hash": "24e147dd1e0819cf67d39b4fd7f8927e35956e06"
+          }
+        },
+        {
+          "client_id": "351145288745-gj30g7hdbds4lsc17aa3kao40emit7nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-VmdqTsVNSX0PPj46Gy6HOiaOqwkkv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351145288745-gj30g7hdbds4lsc17aa3kao40emit7nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
